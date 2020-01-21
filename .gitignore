@@ -123,3 +123,8 @@ runs/
 temp*
 debug_*
 *.swp
+
+# foresight
+robosuite/
+*.profile
+tags
